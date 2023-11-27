@@ -7,6 +7,6 @@
 ## Links
 
 - [eigenbot.app](https://eigenbot.app) - Our homepage
-- [docs.eigenbot.app](https://docs.eigenbot.app) - Documentation for the Eigenbot
+- [docs.eigenbot.app](https://docs.eigenbot.app) - Documentation for Eigenbot
 - [Eigenbot for GitHub](https://github.com/apps/eigenbot-for-github) - Eigenbot on GitHub Marketplace
 - [status.eigenbot.app](https://status.eigenbot.app/) - Service monitoring
